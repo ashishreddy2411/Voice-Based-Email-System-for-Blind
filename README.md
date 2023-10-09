@@ -1,0 +1,3 @@
+# Voice-Based-Email-System-for-Blind
+Voice mail architecture helps blind people to access e-mail. It basically describes the voice mail architecture that can be used by blind people to access their e-mails. This architecture will also reduce cognitive load taken by blind to remember and type characters using the keyboard. Our application will help physically challenged people to access the world according to their ability.
+In future this application can be enhanced and will not only can be implemented for email services but also it can be useful to other services like texting, making notes, operating other application through voice.
